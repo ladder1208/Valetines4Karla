@@ -1,6 +1,7 @@
 import turtle 
 
 pen = turtle.Turtle()
+
 screen = turtle.Screen()
 screen.bgcolor("black")
 
